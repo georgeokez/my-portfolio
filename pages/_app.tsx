@@ -1,4 +1,4 @@
-import { NextSeo } from "next-seo";
+//import { NextSeo } from "next-seo";
 import { AppProps } from "next/app";
 import "../styles/globals.css";
 import AOS from "aos";
@@ -14,7 +14,7 @@ function MyApp({ Component, pageProps }: AppProps) {
 
   return (
     <>
-      <NextSeo
+      {/* <NextSeo
         title={data.name}
         titleTemplate={data.name}
         defaultTitle={data.name}
@@ -44,7 +44,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           site: "@avneesh0612",
           cardType: "summary_large_image",
         }}
-      />
+      /> */}
       <Head>
         <link
           rel="alternate"
