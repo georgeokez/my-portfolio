@@ -3,7 +3,7 @@
   "image": "/profile_pic.png",
   "profession": "FullStack web developer",
   "intro": "Focused on creating amazing UIs to solve business problems around the globe. I am participating in Hackathons and solving problems to build something cool and useful for the world.",
-  "about": "I am a full-stack web developer who loves to design and develop beautiful websites. I have been coding for over a year and enjoying every part of my journey. I love documenting my journey by writing blog posts and teaching others through my writing.",
+  "about": "I am a full-stack web developer who loves to design and develop beautiful websites. I have been coding react websites for over a year now and have being enjoying every part of my journey. I love documenting my journey by writing blog posts and teaching others through my writing.",
   "skills": [
     {
       "src": "/logos/firebase.svg",
@@ -38,23 +38,23 @@
   ],
   "projects": [
     {
-      "name": "Voyager",
-      "image": "/projects/Voyagger.png",
-      "about": "These tough times have made us all aware of the importance of our loved ones and through this app, users can bring a their family and friend's faces by sending them their favoritedelicacy, medicines, or a simple heartfelt gift.",
+      "name": "Neochildcare",
+      "image": "/projects/neochildcare.png",
+      "about": "Neo Childcare is transforming how healthcare benefits mothers and children in Nigeria and Africa, allowing for easy access to healthcare services and products.",
       "tech": ["Next.js", "Auth0", "Firebase", "TailwindCSS"],
       "links": {
         "GitHub": "https://github.com/georgeokez",
-        "Live": "https://www.voyagger.tech"
+        "Live": "https://www.neochildcare.org"
       }
     },
     {
-      "name": "ChatCube",
-      "image": "/projects/Chatcube.png",
-      "about": "ChatCube is a 1:1 chatting application. You can invite your friends and chat with in realtime. You can send them emojis, photos text messages and many more.",
+      "name": "Nolimitwash",
+      "image": "/projects/nolimitwash.png",
+      "about": "Nolimitwash helps to bring together car rental companies, car wash operators and individual car owners into one single marketplace.",
       "tech": ["Next.js", "Auth0", "Firebase", "TailwindCSS"],
       "links": {
         "GitHub": "https://github.com/georgeokez",
-        "Live": "https://www.chatcube.me"
+        "Live": "http://www.nolimitwash.com"
       }
     }
   ],

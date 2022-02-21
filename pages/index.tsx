@@ -24,7 +24,7 @@ const Home: FC<Props> = ({ Posts }) => {
       <Head>
         <meta
           name="keywords"
-          content="Avneesh, Agarwal, Avneesh Agarwal, web dev, blogger, content creator"
+          content="George, Okereka, George Okereka, web dev, blogger, content creator"
         />
         <link
           rel="alternate"
